@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\bin\Debug\net7.0\typeVirguleFloat.exe
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\bin\Debug\net7.0\typeVirguleFloat.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\bin\Debug\net7.0\typeVirguleFloat.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\bin\Debug\net7.0\typeVirguleFloat.dll
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\bin\Debug\net7.0\typeVirguleFloat.pdb
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.dll
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\refint\typeVirguleFloat.dll
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.pdb
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\typeVirguleFloat.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\typeVirguleFloat\obj\Debug\net7.0\ref\typeVirguleFloat.dll

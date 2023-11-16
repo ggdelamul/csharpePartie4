@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\bin\Debug\net7.0\castConversion.exe
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\bin\Debug\net7.0\castConversion.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\bin\Debug\net7.0\castConversion.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\bin\Debug\net7.0\castConversion.dll
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\bin\Debug\net7.0\castConversion.pdb
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.dll
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\refint\castConversion.dll
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.pdb
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\castConversion.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\castConversion\obj\Debug\net7.0\ref\castConversion.dll

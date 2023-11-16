@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\bin\Debug\net7.0\typeNonSigneInteg.exe
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\bin\Debug\net7.0\typeNonSigneInteg.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\bin\Debug\net7.0\typeNonSigneInteg.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\bin\Debug\net7.0\typeNonSigneInteg.dll
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\bin\Debug\net7.0\typeNonSigneInteg.pdb
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.dll
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\refint\typeNonSigneInteg.dll
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.pdb
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\typeNonSigneInteg.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\typeNonSigneInteg\obj\Debug\net7.0\ref\typeNonSigneInteg.dll

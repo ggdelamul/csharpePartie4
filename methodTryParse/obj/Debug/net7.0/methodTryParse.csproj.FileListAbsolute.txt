@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\bin\Debug\net7.0\methodTryParse.exe
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\bin\Debug\net7.0\methodTryParse.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\bin\Debug\net7.0\methodTryParse.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\bin\Debug\net7.0\methodTryParse.dll
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\bin\Debug\net7.0\methodTryParse.pdb
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.dll
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\refint\methodTryParse.dll
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.pdb
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\methodTryParse.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\methodTryParse\obj\Debug\net7.0\ref\methodTryParse.dll

@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\bin\Debug\net7.0\firstDefi.exe
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\bin\Debug\net7.0\firstDefi.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\bin\Debug\net7.0\firstDefi.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\bin\Debug\net7.0\firstDefi.dll
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\bin\Debug\net7.0\firstDefi.pdb
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.dll
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\refint\firstDefi.dll
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.pdb
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\firstDefi.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\firstDefi\obj\Debug\net7.0\ref\firstDefi.dll
