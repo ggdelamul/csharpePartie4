@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\bin\Debug\net7.0\ArrayOpe.exe
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\bin\Debug\net7.0\ArrayOpe.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\bin\Debug\net7.0\ArrayOpe.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\bin\Debug\net7.0\ArrayOpe.dll
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\bin\Debug\net7.0\ArrayOpe.pdb
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.dll
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\refint\ArrayOpe.dll
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.pdb
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ArrayOpe.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\ArrayOpe\obj\Debug\net7.0\ref\ArrayOpe.dll

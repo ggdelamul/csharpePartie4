@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\bin\Debug\net7.0\SecondChallenge.exe
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\bin\Debug\net7.0\SecondChallenge.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\bin\Debug\net7.0\SecondChallenge.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\bin\Debug\net7.0\SecondChallenge.dll
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\bin\Debug\net7.0\SecondChallenge.pdb
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.dll
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\refint\SecondChallenge.dll
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.pdb
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\SecondChallenge.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\SecondChallenge\obj\Debug\net7.0\ref\SecondChallenge.dll
