@@ -1,0 +1,14 @@
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\bin\Debug\net7.0\miseEnFormeData.exe
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\bin\Debug\net7.0\miseEnFormeData.deps.json
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\bin\Debug\net7.0\miseEnFormeData.runtimeconfig.json
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\bin\Debug\net7.0\miseEnFormeData.dll
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\bin\Debug\net7.0\miseEnFormeData.pdb
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.AssemblyInfoInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.AssemblyInfo.cs
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.csproj.CoreCompileInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.dll
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\refint\miseEnFormeData.dll
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.pdb
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\miseEnFormeData.genruntimeconfig.cache
+C:\Users\jerem\desktop\csharp\partie4\miseEnFormeData\obj\Debug\net7.0\ref\miseEnFormeData.dll

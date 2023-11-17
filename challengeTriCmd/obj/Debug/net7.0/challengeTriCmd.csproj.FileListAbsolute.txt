@@ -1,0 +1,14 @@
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\bin\Debug\net7.0\challengeTriCmd.exe
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\bin\Debug\net7.0\challengeTriCmd.deps.json
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\bin\Debug\net7.0\challengeTriCmd.runtimeconfig.json
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\bin\Debug\net7.0\challengeTriCmd.dll
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\bin\Debug\net7.0\challengeTriCmd.pdb
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.AssemblyInfoInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.AssemblyInfo.cs
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.csproj.CoreCompileInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.dll
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\refint\challengeTriCmd.dll
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.pdb
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\challengeTriCmd.genruntimeconfig.cache
+C:\Users\jerem\desktop\csharp\partie4\challengeTriCmd\obj\Debug\net7.0\ref\challengeTriCmd.dll
