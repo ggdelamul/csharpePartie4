@@ -35,6 +35,3 @@ Console.WriteLine($"Measurement: {measurement:N4} units");
 decimal tax = .36785m;
 Console.WriteLine($"Tax rate: {tax:P2}");
 
-
-////////////////////////COMBINAISON APPROCHE DE MISE EN FORME
-///

@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\Remp\bin\Debug\net7.0\Remp.exe
+C:\Users\jerem\Desktop\csharp\partie4\Remp\bin\Debug\net7.0\Remp.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\Remp\bin\Debug\net7.0\Remp.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\Remp\bin\Debug\net7.0\Remp.dll
+C:\Users\jerem\Desktop\csharp\partie4\Remp\bin\Debug\net7.0\Remp.pdb
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.dll
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\refint\Remp.dll
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.pdb
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\Remp.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\Remp\obj\Debug\net7.0\ref\Remp.dll

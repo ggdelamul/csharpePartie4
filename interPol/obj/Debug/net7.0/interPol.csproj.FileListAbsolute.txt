@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie4\interPol\bin\Debug\net7.0\interPol.exe
+C:\Users\jerem\Desktop\csharp\partie4\interPol\bin\Debug\net7.0\interPol.deps.json
+C:\Users\jerem\Desktop\csharp\partie4\interPol\bin\Debug\net7.0\interPol.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie4\interPol\bin\Debug\net7.0\interPol.dll
+C:\Users\jerem\Desktop\csharp\partie4\interPol\bin\Debug\net7.0\interPol.pdb
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.dll
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\refint\interPol.dll
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.pdb
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\interPol.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie4\interPol\obj\Debug\net7.0\ref\interPol.dll

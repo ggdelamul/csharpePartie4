@@ -1,0 +1,14 @@
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\bin\Debug\net7.0\ModifChaineInt.exe
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\bin\Debug\net7.0\ModifChaineInt.deps.json
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\bin\Debug\net7.0\ModifChaineInt.runtimeconfig.json
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\bin\Debug\net7.0\ModifChaineInt.dll
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\bin\Debug\net7.0\ModifChaineInt.pdb
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.AssemblyInfoInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.AssemblyInfo.cs
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.csproj.CoreCompileInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.dll
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\refint\ModifChaineInt.dll
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.pdb
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ModifChaineInt.genruntimeconfig.cache
+C:\Users\jerem\desktop\csharp\partie4\ModifChaineInt\obj\Debug\net7.0\ref\ModifChaineInt.dll
