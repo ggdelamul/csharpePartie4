@@ -1,0 +1,14 @@
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\bin\Debug\net7.0\RemoveReplace.exe
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\bin\Debug\net7.0\RemoveReplace.deps.json
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\bin\Debug\net7.0\RemoveReplace.runtimeconfig.json
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\bin\Debug\net7.0\RemoveReplace.dll
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\bin\Debug\net7.0\RemoveReplace.pdb
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.AssemblyInfoInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.AssemblyInfo.cs
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.csproj.CoreCompileInputs.cache
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.dll
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\refint\RemoveReplace.dll
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.pdb
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\RemoveReplace.genruntimeconfig.cache
+C:\Users\jerem\desktop\csharp\partie4\RemoveReplace\obj\Debug\net7.0\ref\RemoveReplace.dll
