@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jerem\\Desktop\\csharp\\partie4\\projetGuide\\projetGuide.csproj",
-      "projectName": "projetGuide",
-      "projectPath": "C:\\Users\\jerem\\Desktop\\csharp\\partie4\\projetGuide\\projetGuide.csproj",
+      "projectUniqueName": "C:\\Users\\jerem\\Desktop\\csharp\\partie4\\projetGuide\\Starter\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "C:\\Users\\jerem\\Desktop\\csharp\\partie4\\projetGuide\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jerem\\Desktop\\csharp\\partie4\\projetGuide\\obj\\",
+      "outputPath": "C:\\Users\\jerem\\Desktop\\csharp\\partie4\\projetGuide\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config"
